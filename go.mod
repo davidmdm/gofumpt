@@ -1,4 +1,4 @@
-module mvdan.cc/gofumpt
+module github.com/davidmdm/gofumpt
 
 go 1.20
 
